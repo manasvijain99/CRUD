@@ -1,2 +1,2 @@
 # CRUD
-This is basic implementation of CRUD functions which includes create , retrieve , update and delete the data.
+This is basic implementation of CRUD functions which includes create , retrieve , update and delete the data using Django frmaework.
